@@ -1,6 +1,6 @@
 # openFrameworks
 
-##Bio
+## Bio
 MFADT 21'
 
-##Picture
+## Picture
