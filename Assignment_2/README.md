@@ -4,7 +4,7 @@
 
 ## Descirption
 
-This is my Week_02 assignment in openFrameworks class.
+This is my Week_02 assignment for openFrameworks class.
 
 ## Screenshots
 
