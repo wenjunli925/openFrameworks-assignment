@@ -1,10 +1,10 @@
-# Assignment_2
+# 3DPrimitivesExample
 
 ## C++
 
 ## Descirption
 
-This is my Week_02 assignment for openFrameworks class.</br>
+This is 3DPrimitivesExample that I ran for test.</br>
 ![](images/dog.gif)
 
 ## Screenshots
