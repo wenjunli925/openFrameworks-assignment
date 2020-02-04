@@ -4,7 +4,8 @@
 
 ## Descirption
 
-This is my Week_02 assignment for openFrameworks class.
+This is my Week_02 assignment for openFrameworks class.</br>
+![](images/dog.gif)
 
 ## Screenshots
 
