@@ -9,4 +9,8 @@ This is 3DPrimitivesExample that I ran for test.</br>
 
 ## Screenshots
 
+![](images/3DPrimitivesExample.gif)
+
+###### Finished modules page on SoloLearn
+
 ![](images/Wk02%20finished%20modules.png)
