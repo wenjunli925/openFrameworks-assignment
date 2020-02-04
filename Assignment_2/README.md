@@ -4,7 +4,7 @@
 
 ## Descirption
 
-This is 3DPrimitivesExample that I ran for test.</br>
+This is 3DPrimitivesExample that I found in Examples folder and ran for test.</br>
 ![](images/dog.gif)
 
 ## Screenshots
