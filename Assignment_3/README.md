@@ -17,7 +17,14 @@ I see this work as an educational animation video as TED-Ed makes, so the user o
 
 ### Concpet Description
 
+For this project, I want to do some data visualization with 3D shapes. Certain existing mathematical formulas can be used to draw 3D shapes, so what I need to do are translating those formulas into instructions in code and rendering 3D models on openFrameworks. 
+
+Data input will change parameters of the 3D shape(s) directly. 3D shapes are shown on the screen with a simple user interface.
+
+Since I haven't decided what kind of data I'm going to use, I don't know exactly who will be my target user. I am thinking of this work as another mean to show the structure of the data or tell the story hidden in the data. (I wish)This might help users draw new insights from raw data.
+
 ### Movement and Interaction
+
 
 ## Project_3
 
