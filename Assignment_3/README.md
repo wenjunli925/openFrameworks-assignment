@@ -38,7 +38,8 @@ Interactions involved in this game will be very simple. I hope the user can get 
 
 There isn't any target user for this game. It's going to be designed for everyone.
 
-### Movement and Interaction
+### Interaction
+Potential interactions may be like this. I made it before in Processing.
 ![](images/Project_3%20movement.gif)
 
 ## Weekly Project
