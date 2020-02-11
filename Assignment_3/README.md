@@ -4,7 +4,7 @@
 
 ### Concpet Description
 
-This project is basically a short animation showing what Fermi paradox and Dark Forest theory are.  I read the Dark Forest theory from a sci-fi, Three-Body Problem, by a Chinese sci-fi writer Liu Cixin. The story in this book is fascinating. Besides, some of the theories and argument came with the story I think are very interesting and worth being contemplated. Dark Forest theory is the most well-known one among them.
+This project is basically a short animation showing what Fermi paradox and Dark Forest theory are.  I read the Dark Forest theory from a science fiction, Three-Body Problem, by a Chinese sci-fi writer Liu Cixin. The story in this book is fascinating. Besides, some of the theories and argument came with the story I think are very interesting and worth being contemplated. Dark Forest theory is the most well-known one among them.
 
 This animation is going to be a sequence of drawings displayed in specific order and preset speed. In the explaining process, I want to encourage the user to make assumptions at certain points by clicking different options on the screen. Then different consequences will show up, which push the explanation further until it is finished.
 
