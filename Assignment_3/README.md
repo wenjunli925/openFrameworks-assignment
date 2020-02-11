@@ -32,9 +32,9 @@ Since I haven't decided what kind of data I'm going to use, I don't know exactly
 
 This project is going to be a small and light game about modern people's compulsions, which can be super wired, creepy or unmentionable. The purpose of this game is to tell everyone it's perfectly ok to have these uncontrollable behaviors. Living in this world, everyone is unique, but no one is a weirdo, and when you actually play with them, they are not able to bother you any longer. 
 
-There isn't any target user for this game. It's going to be designed for everyone.
-
 Interactions involved in this game will be very simple. I hope the user can get close to their inner feelings of compulsions by doing some straight forward and repeating actions. In this game, the user will be acting like a stubborn but nice old man dealing with his odd habits in a funny way.
+
+There isn't any target user for this game. It's going to be designed for everyone.
 
 ### Movement and Interaction
 
