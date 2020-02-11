@@ -2,7 +2,7 @@
 
 ## Final Projects
 
-## Project_1
+### Project_1
 
 ### Concpet Description
 
@@ -15,7 +15,7 @@ I see this work as an educational animation video as TED-Ed makes, so the user o
 ### Interaction
 ![](images/Project_1%20interaction.jpg)
 
-## Project_2
+### Project_2
 
 ### Concpet Description
 
@@ -28,7 +28,7 @@ Since I haven't decided what kind of data I'm going to use, I don't know exactly
 ### Movement
 ![](images/Project_2%20movement.jpg)
 
-## Project_3
+### Project_3
 
 ### Concpet Description
 
