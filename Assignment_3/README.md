@@ -4,7 +4,7 @@
 
 ### Project_1
 
-### Concpet Description
+### Concept Description
 
 This project is basically a short animation showing what Fermi paradox and Dark Forest theory are.  I read the Dark Forest theory from a science fiction, Three-Body Problem, by a Chinese sci-fi writer Liu Cixin. The story in this book is fascinating. Besides, some of the theories and argument came with the story I think are very interesting and worth being contemplated. Dark Forest theory is the most well-known one among them.
 
@@ -17,7 +17,7 @@ I see this work as an educational animation video as TED-Ed makes, so the user o
 
 ### Project_2
 
-### Concpet Description
+### Concept Description
 
 For this project, I want to do some data visualization with 3D shapes. Certain existing mathematical formulas can be used to draw 3D shapes, so what I need to do are translating those formulas into instructions in code and rendering 3D models on openFrameworks. 
 
@@ -30,7 +30,7 @@ Since I haven't decided what kind of data I'm going to use, I don't know exactly
 
 ### Project_3
 
-### Concpet Description
+### Concept Description
 
 This project is going to be a small and light game about modern people's compulsions, which can be super wired, creepy or unmentionable. The purpose of this game is to tell everyone it's perfectly ok to have these uncontrollable behaviors. Living in this world, everyone is unique, but no one is a weirdo, and when you actually play with them, they are not able to bother you any longer. 
 
