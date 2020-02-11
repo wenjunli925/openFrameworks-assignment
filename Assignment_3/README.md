@@ -44,6 +44,7 @@ There isn't any target user for this game. It's going to be designed for everyon
 
 ### Screenshots
 ![](images/Screenshot01.png)
+![](images/Screenshot02.png)
 
 
 
