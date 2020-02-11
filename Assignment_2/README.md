@@ -4,7 +4,7 @@
 
 ![](images/Wk02%20finished%20modules.png)
 
-## Descirption
+## Description
 
 This is 3DPrimitivesExample that I found in Examples folder and ran for test.</br>
 ![](images/dog.gif)
