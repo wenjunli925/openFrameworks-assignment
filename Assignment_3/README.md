@@ -40,6 +40,10 @@ There isn't any target user for this game. It's going to be designed for everyon
 
 ### Movement and Interaction
 
+## Weekly Project
+
+### Screenshots
+
 
 
 
