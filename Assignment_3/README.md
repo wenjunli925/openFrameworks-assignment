@@ -40,6 +40,7 @@ There isn't any target user for this game. It's going to be designed for everyon
 
 ### Interaction
 Potential interactions may be like this. I made it before in Processing.
+</br>
 ![](images/Project_3%20movement.gif)
 
 ## Weekly Project
