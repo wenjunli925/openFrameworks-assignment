@@ -1,4 +1,5 @@
 #include "ofApp.h"
+
 int drawingMode;
 
 int startTime;
