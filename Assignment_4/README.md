@@ -3,7 +3,7 @@
 
 ## Weekly Project
 
-### Description
+### Requirements
 
 Make a new project which draws only the object with a face from the last assignment.
 
