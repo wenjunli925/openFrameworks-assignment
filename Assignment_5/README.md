@@ -17,7 +17,7 @@ Since this project uses sound, you will have to upload a youtube file for your R
 ### Screenshots
 ![](images/5.png)
 <br>
-(Name of this project is "When I Get A Direct Message")
+(The name of this project is "When I Receive A Direct Message")
 
 **Link to its Youtube video:**
 
