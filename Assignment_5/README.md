@@ -16,6 +16,11 @@ Since this project uses sound, you will have to upload a youtube file for your R
 
 ### Screenshots
 
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
+
 Link to Youtube Video:
 
 [![openFrameworks Week_5 Assignment](http://img.youtube.com/vi/eb9r-ynXFdk/0.jpg)](http://www.youtube.com/watch?v=eb9r-ynXFdk)
