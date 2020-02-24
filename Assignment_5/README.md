@@ -14,12 +14,11 @@ Starting at each change, play a sound that you either created or downloaded (wit
 
 Since this project uses sound, you will have to upload a youtube file for your README.md .
 
-### Screenshots
 
-![](images/1.png)
-![](images/2.png)
-![](images/3.png)
-![](images/4.png)
+### Project Name
+When I Get A Message From You
+
+### Screenshots
 
 Link to Youtube Video:
 
