@@ -8,7 +8,7 @@
 
 ### Screenshots
 
-Youtube Video Link:
+Link to Youtube Video:
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/eb9r-ynXFdk/0.jpg)](http://www.youtube.com/watch?v=eb9r-ynXFdk)
 
