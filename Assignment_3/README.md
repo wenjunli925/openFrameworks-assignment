@@ -42,7 +42,7 @@ Interactions involved in this game will be very simple. I hope the user can get 
 Potential interactions may be like this. I made it before in Processing.
 ![](images/Project_3%20movement.gif)
 
-## Weekly Project
+## Weekly Project - Colors, Alpha, Drawing Shapes & Random
 
 ### Screenshots
 ![](images/Screenshot01.png)
