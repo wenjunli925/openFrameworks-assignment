@@ -3,7 +3,7 @@
 
 ## Weekly Project
 
-### Requirements
+### Requirements - oF File structure, movement, vectors, easing
 
 Make a new project which draws only the object with a face from the last assignment.
 
