@@ -1,7 +1,7 @@
 
 # Assignment_5
 
-## Weekly Project
+## Weekly Project - Polygons & Sound
 
 ### Requirements
 Create a new project using the code from the last assignment.
