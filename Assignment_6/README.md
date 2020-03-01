@@ -19,7 +19,6 @@ When key 'f' is pressed, toggle writing to a fading fbo instead of directly to t
 ![](images/3.png)
 ![](images/4.png)
 ![](images/5.png)
-![](images/6.png)
 
 **Link to Youtube video:**
 
