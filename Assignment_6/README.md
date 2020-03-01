@@ -14,6 +14,11 @@ Choose a second element that moves to a given x,y when the mouse button is click
 When key 'f' is pressed, toggle writing to a fading fbo instead of directly to the screen.
 
 ### Screenshots
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
+![](images/5.png)
 ![](images/6.png)
 
 **Link to Youtube video:**
