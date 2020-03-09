@@ -32,6 +32,10 @@ Translation could move pupils (or any other feature) around.
 ![](images/3.png)
 ![](images/4.png)
 ![](images/5.png)
+![](images/6.png)
+![](images/7.png)
+![](images/8.png)
+![](images/9.png)
 
 **Link to Youtube video:**
 
