@@ -26,7 +26,7 @@ Scaling could widen eyes in surprise or narrow them in distrust
 Translation could move pupils (or any other feature) around.
 
 ### Screenshots
-
+**emotions*
 ![](images/1.png)
 ![](images/2.png)
 ![](images/3.png)
