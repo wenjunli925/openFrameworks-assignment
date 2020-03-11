@@ -37,12 +37,15 @@ Translation could move pupils (or any other feature) around.
 
 **Rotating**
 ![](images/6.png)
+
+
+**Selecting the color**
 ![](images/7.png)
 
 **Scaling**
 ![](images/8.png)
 
-**Selecting the color**
+**Changing the position of all shapes**
 ![](images/9.png)
 
 **Link to Youtube video:**
