@@ -29,6 +29,8 @@ Example: Use sunrise/sunset/hour to change the background color.  Use temperatur
 
 Prepare your first project for next week's crit.
 
+### Description
+
 ### Screenshots
 
 ![](images/1.png)
