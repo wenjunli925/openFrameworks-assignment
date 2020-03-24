@@ -50,4 +50,4 @@ Translation could move pupils (or any other feature) around.
 
 **Link to Youtube video:**
 
-[![openFrameworks Week_6 Assignment](http://img.youtube.com/vi/0Rmum7T4094/0.jpg)](http://www.youtube.com/watch?v=0Rmum7T4094)
+[![openFrameworks Week_7 Assignment](http://img.youtube.com/vi/0Rmum7T4094/0.jpg)](http://www.youtube.com/watch?v=0Rmum7T4094)
