@@ -32,7 +32,7 @@ Prepare your first project for next week's crit.
 ### Description
 In this project, the weather forecast data in this city(NYC) is from Dark Sky API. Five values are extracted from the resulting JSON file: Time, Temperature, Wind Speed, Sunrise Time, and Sunset Time. The scene I simulated is the view that I used to see in a classroom(D1208) on D12.
 
-As time flows forward in one day, you can see that the light coming from two windows in the classroom is constantly changing. Both sunrise time and sunset time here can be re-set manually through GUI panel and shown in the light changing progress. The background sound in this project is a wind sound effect. Its volume depends on how strong the wind is. I also added one more button in the GUI panel. This button is a light switch, with which lights in this room are able to be turned on and off.
+As time flows forward in one day, you can see that the light coming from two windows in the classroom is constantly changing. Both sunrise time and sunset time here can be re-set manually through a GUI panel and shown in the light changing progress. The background sound in this project is a wind sound effect. Its volume depends on how strong the wind is. I also added one more button to the GUI panel. This button is a light switch, with which lights in this room are able to be turned on and off.
 
 ### Screenshots
 **Current Time(10:25 a.m.)**
@@ -45,7 +45,7 @@ As time flows forward in one day, you can see that the light coming from two win
 ![](images/4.png)
 ![](images/5.png)
 **At Night**
-![](images/6.png)
+![](images/7.png)
 **Lights On**
 ![](images/8.png)
 
