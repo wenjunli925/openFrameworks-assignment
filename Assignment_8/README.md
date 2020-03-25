@@ -43,6 +43,7 @@ As time flows forward in one day, you can see that the light coming from two win
 ![](images/5.png)
 ![](images/6.png)
 ![](images/7.png)
+![](images/8.png)
 
 **Link to Youtube video:**
 
