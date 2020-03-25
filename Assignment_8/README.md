@@ -35,14 +35,18 @@ In this project, the weather forecast data in this city(NYC) is from Dark Sky AP
 As time flows forward in one day, you can see that the light coming from two windows in the classroom is constantly changing. Both sunrise time and sunset time here can be re-set manually through GUI panel and shown in the light changing progress. The background sound in this project is a wind sound effect. Its volume depends on how strong the wind is. I also added one more button in the GUI panel. This button is a light switch, with which lights in this room are able to be turned on and off.
 
 ### Screenshots
-
+**Current Time(10:25 a.m.)**
 ![](images/1.png)
+**Before Dawn**
 ![](images/2.png)
+**Sunrise**
 ![](images/3.png)
+**Sunset**
 ![](images/4.png)
 ![](images/5.png)
+**At Night**
 ![](images/6.png)
-![](images/7.png)
+**Lights On**
 ![](images/8.png)
 
 **Link to Youtube video:**
