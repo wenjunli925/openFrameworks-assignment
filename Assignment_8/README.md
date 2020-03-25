@@ -30,6 +30,9 @@ Example: Use sunrise/sunset/hour to change the background color.  Use temperatur
 Prepare your first project for next week's crit.
 
 ### Description
+In this project, the weather forecast data in this city(NYC) was from Dark Sky API. Five values were extracted from the resulting JSON file: Time, Temperature, Wind Speed, Sunrise Time and Sunset Time. The seene I simultaed was the view that I used to see in a classroom(D1208) on D12.
+
+As time flows forward in one day, you are able to see that the light coming from two windows in that room is constantly changing. Both sunrise time and sunset time can be re-set manually through GUI panel and shown in the light changing progress. The background sound in this project is a wind sound effect. Its wolume is controlled by how strong the wind is. Besides that, I added one more button in GUI panel. This toggle is a light switch, with which lights in this room can be turned on and off.
 
 ### Screenshots
 
