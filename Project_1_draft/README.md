@@ -12,7 +12,7 @@ Moving to the game part, the player needs to make a decision on if we should sen
 
 **Reference:** [The Fermi Paradox: Dark Forest Theory](https://www.youtube.com/watch?v=zmCTmgavkrQ)
 
-### Screenshots
+## Screenshots ##
 ![](images/1.png)
 ![](images/2.png)
 ![](images/3.png)
