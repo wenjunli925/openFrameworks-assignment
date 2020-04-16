@@ -10,7 +10,9 @@ Moving to the game part, the player needs to make a decision on if we should sen
 
 ![](images/screenshot.png)
 
-**Reference:** [The Fermi Paradox: Dark Forest Theory](https://www.youtube.com/watch?v=zmCTmgavkrQ)
+**References:** 
+[The Fermi Paradox: Dark Forest Theory](https://www.youtube.com/watch?v=zmCTmgavkrQ)
+[Figuring out: Shepard Tone](http://javierzumer.com/blog/2019/7/26/figuring-out-shepard-tone)
 
 ## Screenshots ##
 ![](images/1.png)
