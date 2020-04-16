@@ -14,10 +14,10 @@ Moving to the game part, the player needs to make a decision on if we should sen
 ![](images/1.png)
 ![](images/2.png)
 ![](images/3.png)
-![](images/4.png)
-![](images/5.png)
-![](images/6.png)
-![](images/7.png)
+![](images/4.gif)
+![](images/5.gif)
+![](images/6.gif)
+![](images/7.gif)
 
 **Link to Youtube video:**
 
