@@ -1,7 +1,7 @@
 
 # Project_1
 
-### Description
+## Description ##
 This project is a small app based on the Fermi paradox and Dark Forest theory that is from a science fiction, Three-Body Problem, by a Chinese sci-fi writer Liu Cixin. I tried to translate these two theories through simple game mechanics and show how they work together in the universe.
 
 At the beginning of this game, I quote the Dark Forest theory in order to provide some background information for the player. While they are reading that, a background sound is being played automatically. The sound is an interesting audio illusion, the Shepard Tone. It creates the impression of an always rising or falling pitch that really doesn't get anywhere. It gives the player a feeling that it’s always going up or down, but meanwhile, it’s stuck in an eternal auditory. That impression perfectly matches the feeling I had about the dark and immeasurable universe when I was reading the book, so I decided to play it here.
