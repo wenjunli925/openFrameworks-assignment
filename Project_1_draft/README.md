@@ -8,6 +8,8 @@ At the beginning of this game, I quote the Dark Forest theory in order to provid
 
 Moving to the game part, the player needs to make a decision on if we should send a message (radio signals) to the universe. There is no doubt that this message will expose our location to potentially existing neighbors, intelligent aliens living on the other side of the universe. If they are friendly creatures, we are going to co-exist peacefully, but if they are hostile to us, we might get killed. In this game, I set the possibility of the aliens are friendly is 50%. With two different decisions that players may make, there are four consequences in total at the end of the game. 
 
+![](images/screenshot.png)
+
 ### Screenshots
 
 
