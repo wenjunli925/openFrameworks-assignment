@@ -2,7 +2,7 @@
 # Project_2
 
 ## Description ##
-My Project_2 is a refined version of Assignment_8. But different from the Assignment_8, there is sunlight that can be seen coming through windows into the room and the room is also sketched as a three dimensinal space.
+My Project_2 is a refined version of Assignment_8. But different from that, there is sunlight that can be seen coming into the room through windows and the room is also sketched as a three dimensinal space.
 
 In this project, the weather forecast data in this city(NYC) is from Dark Sky API. Five values are extracted from the resulting JSON file: Time, Temperature, Wind Speed, Sunrise Time, and Sunset Time. The scene I simulated is the view that I used to see in a classroom(D1208) on D12.
 
