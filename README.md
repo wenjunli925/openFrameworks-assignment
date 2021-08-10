@@ -1,4 +1,4 @@
-# openFrameworks
+# openFrameworks_Assignments
 
 ## Bio
 Wenjun Li</br>
